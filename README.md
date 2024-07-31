@@ -15,7 +15,7 @@ SHOPIFY_STORE=suavecito
 SHOPIFY_ACCESS_TOKEN=
 ```
 
-## Example Discount Creating Payload
+## Example Discount Created Payload
 
 ```json
 {
